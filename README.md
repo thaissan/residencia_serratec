@@ -17,11 +17,11 @@ Aqui estão as principais tecnologias e ferramentas utilizadas durante a residê
 ## 📚 Matérias Abordadas
 
 - **[Lógica de Programação](https://github.com/thaissan/residencia_serratec/tree/main/Logica%20de%20Programacao)** ➡️ Portugol
-- **[Banco de Dados](#docs/bancodedados.ms)** ➡️ SQL/Postgres
-- **[POO](#poo/poo.md)** ➡️ Java
-- **[FrontEnd](#front)** ➡️ HTML, CSS, Javascript
-- **[API Restful](#api)** ➡️ Java/Springboot
-- **[Desenvolvimento Web](#react)** ➡️ React
-- **[Desenvolvimento Mobile](#reactnative)** ➡️ React Native
+- **[Banco de Dados](https://github.com/thaissan/residencia_serratec/tree/main/Banco%20de%20Dados)** ➡️ SQL/Postgres
+- **[POO](https://github.com/thaissan/residencia_serratec/tree/main/POO)** ➡️ Java
+- **[FrontEnd]()** ➡️ HTML, CSS, Javascript
+- **[API Restful]()** ➡️ Java/Springboot
+- **[Desenvolvimento Web]()** ➡️ React
+- **[Desenvolvimento Mobile]()** ➡️ React Native
 
 
