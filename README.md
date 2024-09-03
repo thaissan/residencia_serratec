@@ -4,7 +4,7 @@ Bem-vindo ao repositório da Residência de Software Serratec. Este espaço é d
 
 O programa de residência é uma imersão de 12 semanas focada no aprimoramento de habilidades em desenvolvimento FullStack, resolução de problemas complexos, colaboração em equipe e aplicação prática dos conhecimentos adquiridos.
 
-## 🚀 Tecnologias e Ferramentas 💻
+## 💻 Tecnologias e Ferramentas 
 
 Aqui estão as principais tecnologias e ferramentas utilizadas durante a residência:
 
@@ -14,5 +14,14 @@ Aqui estão as principais tecnologias e ferramentas utilizadas durante a residê
 - ✅ **Node.js**
 - ✅ **React**
 
+## 📚 Matérias Abordadas
+
+- **[Lógica de Programação](#logica)** ➡️ Portugol
+- **[Banco de Dados](#docs/bancodedados.ms)** ➡️ SQL/Postgres
+- **[POO](#poo/poo.md)** ➡️ Java
+- **[FrontEnd](#front)** ➡️ HTML, CSS, Javascript
+- **[API Restful](#api)** ➡️ Java/Springboot
+- **[Desenvolvimento Web](#react)** ➡️ React
+- **[Desenvolvimento Mobile](#reactnative)** ➡️ React Native
 
 
