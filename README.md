@@ -27,8 +27,8 @@ Aqui estão as principais tecnologias e ferramentas utilizadas durante a residê
 
 <details>
   <summary><a href="https://github.com/thaissan/residencia_serratec/tree/main/POO">POO</a> ➡️ Java</summary>
-  - <a href="https://github.com/thaissan/residencia_serratec/tree/main/POO](https://github.com/thaissan/poo_exercicios">📌Lista de Exercícios - </a>Exercícios de lógica em Java <br>
-  - <a href="https://github.com/thaissan/poo_gestaoEscolaSenai">📌Atividade Avaliativa - </a>Sistema EscolaSenai
+  - <a href="https://github.com/thaissan/poo_exercicios">📌Lista de Exercícios - </a>Exercícios de lógica em Java <br>
+  - <a href="https://github.com/thaissan/poo_gestaoDeEscolaSenai">📌Atividade Avaliativa - </a>Sistema EscolaSenai
 </details>
 
 <details>
